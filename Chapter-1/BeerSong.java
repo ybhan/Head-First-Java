@@ -5,7 +5,6 @@ public class BeerSong {
 
         while (beerNum > 0) {
 
-
             System.out.println(beerNum + " " + word + " of beer on the wall");
             System.out.println(beerNum + " " + word + " of beer.");
             System.out.println("take one down.");
